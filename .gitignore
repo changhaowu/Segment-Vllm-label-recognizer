@@ -1,0 +1,7 @@
+# Pipfile
+# Pipfile.lock
+
+data_test/
+data_train/
+data_validation/
+craft_sample_data/
