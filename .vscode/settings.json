@@ -1,4 +1,3 @@
 {
-    "python.interpreterPath": "/home/karl/.local/share/virtualenvs/stock_label_pipeline-B_XQHo1b/bin/python"
+    "python.defaultInterpreterPath": "/home/karl/.local/share/virtualenvs/stock_label_pipeline-B_XQHo1b/bin/python"
 }
-  

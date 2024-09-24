@@ -5,3 +5,6 @@ data_test/
 data_train/
 data_validation/
 craft_sample_data/
+CRAFT-pytorch/craft_mlt_25k.pth
+craft_sample/
+result/
